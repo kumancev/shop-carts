@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro",
+    "price": 1299,
+    "imgUrl": "/imgs/notebook.jpg"
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air",
+    "price": 899,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "iMac",
+    "price": 1499,
+    "imgUrl": "/imgs/computer.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "AirPods",
+    "price": 199,
+    "imgUrl": "/imgs/airpods.jpg"
+  }
+]
